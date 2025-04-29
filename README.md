@@ -1,6 +1,6 @@
 --[[
 
-goon hub by artvip
+goonhub by artvip
 
 ]]
 
